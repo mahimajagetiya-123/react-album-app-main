@@ -20,11 +20,11 @@ Data is fetched from the API and stored in a state and then further tasks are im
 
 Preview the project...
 
-![album1](https://github.com/shubhamdhiman/Albums-Collection-React-Project/assets/18380165/7652d573-64e2-4da3-9e4e-684a9db50f01)
+![album1](https://github.com/mahimajagetiya-123/Albums-Collection-React-Project/assets/18380165/7652d573-64e2-4da3-9e4e-684a9db50f01)
 
-![album2](https://github.com/shubhamdhiman/Albums-Collection-React-Project/assets/18380165/ab46ac35-b47e-4d31-8ada-072107609f16)
+![album2](https://github.com/mahimajagetiya-123/Albums-Collection-React-Project/assets/18380165/ab46ac35-b47e-4d31-8ada-072107609f16)
 
-![album3](https://github.com/shubhamdhiman/Albums-Collection-React-Project/assets/18380165/c0baa288-7a40-43b3-8a54-4898d5a573ee)
+![album3](https://github.com/mahimajagetiya-123/Albums-Collection-React-Project/assets/18380165/c0baa288-7a40-43b3-8a54-4898d5a573ee)
 
 
 ## To run the project
@@ -34,7 +34,5 @@ Preview the project...
  
 
 ## Contact Me
-* Email: shubhamdhiman00.sd@gmail.com
-* Instagram: @shubham_dhiman3.089
-* Twitter: https://twitter.com/shubhamdhiman78
-* Youtube: https://www.youtube.com/channel/UCiB-unVOfV1dcHWyvhesI4w
+* Email: mahimajagetiya111@gmail.com
+* Youtube: https://youtu.be/vz914Pwi28Q
